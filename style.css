@@ -1,0 +1,63 @@
+.box {
+  width: 40rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: solid 3px rgb(223, 223, 223);
+}
+
+.spaces {
+  margin-left: 30px;
+}
+
+.search-button {
+  height: 40px;
+  padding: 0 6px;
+  margin-bottom: 5px;
+}
+
+.city-input {
+  width: 20rem;
+  height: 40px;
+  font-size: 17px;
+}
+
+.deg {
+  font-size: 20px;
+  vertical-align: text-top;
+}
+
+.days {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0.7rem 0;
+  height: 2rem;
+}
+
+.day {
+  margin: 0 12px;
+  width: 6rem;
+  height: 7rem;
+  background-color: rgb(251, 248, 248);
+  border: solid 3px rgb(223, 223, 223);
+}
+
+.date {
+  font-size: 20px;
+}
+
+.basic-info {
+  display: block;
+  text-align: end;
+  padding-right: 20px;
+}
+
+.degree {
+  margin-left: -20px;
+}
+
+a {
+  text-decoration: none;
+}
